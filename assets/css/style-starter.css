@@ -9841,7 +9841,7 @@ h4.sub-title {
   color: #fff; }
 
 .w3l-bootstrap-header a.navbar-brand {
-  color: var(--white-color);
+  color: #f79318;
   font-weight: 600;
   font-size: 36px;
   padding: 0;
@@ -12840,4 +12840,11 @@ ul.partners-icon li span.fa:hover {
   .w3l-service-breadcrum .breadcrum-bg {
     padding-top: 60px; } }
 
+
+    @font-face {
+      font-family: 'PirulenRg-Regular';
+      font-style: normal;
+      font-weight: normal;
+      src: local('PirulenRg-Regular'), url('pirulen rg.woff') format('woff');
+      }
 /*# sourceMappingURL=style-starter.css.map */
