@@ -12847,4 +12847,16 @@ ul.partners-icon li span.fa:hover {
       font-weight: normal;
       src: local('PirulenRg-Regular'), url('pirulen rg.woff') format('woff');
       }
+
+      .whatsapp {
+    position: fixed;
+    right: 0px;
+    top: 52%;
+}
+.whatsapp h5 {
+    color: white;
+    background: #20b20f;
+    padding: 12px;
+    border-radius: 10px;
+}
 /*# sourceMappingURL=style-starter.css.map */
